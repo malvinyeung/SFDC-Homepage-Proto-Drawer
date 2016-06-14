@@ -45,8 +45,8 @@ a:hover.preventHover{color:inherit;cursor:text}
 @media(min-width:1024px){.navbar_free_trial>.btn-container{margin-top:5px !important}
 }
 .expandableNavigationBarComponent .navbar-header-container{padding:0}
-@media(min-width:1312px){.nav-container.navbar-links-container{padding-left:119px}
-}
+/*@media(min-width:1312px){.nav-container.navbar-links-container{padding-left:119px}
+}*/
 @media(max-width:1311px) and (min-width:1024px){.navbar-links-container{position:relative}
 .navbar-links-container .buttonCTAItemComponent.navbar_free_trial{position:absolute;margin-top:0 !important;right:0}
 .navbar-links-container .main-menu{margin-left:-8px}

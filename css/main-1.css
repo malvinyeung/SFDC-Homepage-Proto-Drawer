@@ -1479,7 +1479,7 @@ body.work_com .nav-pills>li.active>a,.nav-pills>li.active>a:hover,.nav-pills>li.
 .navbar-expandable-container .tab-pane .tab-wrap{padding-top:32px}
 .navbar-expandable-container .icon-sfdc-icon-up-arrow.footer-closer-tab{cursor:pointer;padding:10px 10px 10px 10px}
 .navbar-expandable-container.nav-expanded{height:0}
-.navbar-expandable-container.nav-expanded .tab-pane.active{height:auto}
+.navbar-expandable-container.nav-expanded .tab-pane.active{height: auto; min-height: 250px;}
 .navbar-expandable-container .icon-sfdc-icon-offsite{margin-left:5px}
 .navbar-expandable-container footer{margin-top:8px;height:30px;padding-top:8px;text-transform:uppercase;font-size:11px;font-family:'SalesforceSansBold' !important;letter-spacing:.13em}
 .navbar-expandable-container footer .icon-sfdc-link-right-arrow{padding-left:5px;font-size:9px}
